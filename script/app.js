@@ -1,1 +1,0 @@
-var donation = angular.module('app',[]);
